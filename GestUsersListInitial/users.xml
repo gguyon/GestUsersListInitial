@@ -1,0 +1,6 @@
+<?xml version='1.0' ?>
+<users>
+<user><prenom>Faisal</prenom><nom>Choudhry</nom><uid>FaisalChoudhry</uid><pw>123</pw></user>
+<user><prenom>Guyon</prenom><nom>Gregory</nom><uid>GuyonGregory</uid><pw>123</pw></user>
+<user><prenom>prenom1</prenom><nom>nom1</nom><uid>prenom1nom1</uid><pw>123</pw></user>
+</users>
